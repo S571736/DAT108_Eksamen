@@ -1,0 +1,34 @@
+# Konte eksamen 2019
+
+## Forelesning 3.06.2019
+
+### Oppgave 1
+**a) Konseptuell klasse?**
+Ein konseptuell klasse er begrepene som man finner i problemstillingene. De første utkastene til ka prosjektet skal 
+inneholde. Ingen spesifikasjoner. Handler om å finne klasser og attributter. Handler om begrepene.
+
+
+**b) GRASP - hvem er skaperen?**
+
+Svart diamant - klassen som har diamanten inneholder klassen den peiker til. 
+
+Argumentere for det smarteste. Ikkje alltid det tegningen sier som er det smarteste. Ansvaret kan havne på andre klasser
+enn det diagrammene sier.
+
+Så lenge vi er flinke til argumentere for koffor så burde det vere bra.
+
+### Oppgave 2
+
+**b)**
+synkronisere på laveste nivå.
+
+### Oppgave 3
+
+### Oppgave 4
+
+### Oppgave 5
+ 
+### Oppgave 6
+
+### Oppgave 7
+
