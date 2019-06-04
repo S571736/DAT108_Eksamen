@@ -42,4 +42,14 @@ public class Student {
     public void setKlasseid(String klasseid) {
         this.klasseid = klasseid;
     }
+
+    @Override
+    public String toString() {
+        return "\nStudent{" +
+                "fornavn='" + fornavn + '\'' +
+                ", etternavn='" + etternavn + '\'' +
+                ", studentnr='" + studentnr + '\'' +
+                ", klasseid='" + klasseid + '\'' +
+                '}';
+    }
 }
